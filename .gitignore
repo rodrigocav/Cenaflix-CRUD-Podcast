@@ -1,0 +1,20 @@
+# Arquivos gerados pelo NetBeans/IDE
+/nbproject/private/
+/build/
+/dist/
+nbbuild/
+.nb-gradle/
+.nb-gradle-properties
+.idea/
+.vscode/
+
+# Arquivos Java compilados
+*.class
+
+# Logs
+*.log
+
+# Arquivos de dados de banco de dados (se estiver usando um BD local, como .db)
+*.mv.db
+*.trace.db
+/cenaflix_db.sql
